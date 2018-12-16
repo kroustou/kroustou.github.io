@@ -1,0 +1,38 @@
+body {
+  background: whitesmoke; }
+
+.header {
+  border-top: 3px solid #236467;
+  padding-bottom: 30px; }
+  .header h1.title a {
+    text-align: center;
+    color: #003133;
+    font-weight: 300;
+    display: block; }
+  .header .subtitle {
+    display: block;
+    width: 220px;
+    margin: -10px auto;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Bangers', cursive; }
+
+a:hover {
+  color: #67989A;
+  text-decoration: none; }
+
+a {
+  color: #417E80; }
+
+#content .post-title {
+  font-family: 'Bangers', cursive; }
+#content .meta {
+  display: inline-block;
+  font-family: 'Bangers', cursive; }
+#content .links {
+  font-size: 30px; }
+#content a:hover {
+  color: #67989A;
+  text-decoration: none; }
+
+/*# sourceMappingURL=screen.css.map */
